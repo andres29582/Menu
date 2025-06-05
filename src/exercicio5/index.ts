@@ -4,3 +4,4 @@ export function exibirPares() {
     console.log(i);
   }
 }
+
